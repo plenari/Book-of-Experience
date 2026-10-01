@@ -1,4 +1,4 @@
-Copyright (c) 2026-present [https://github.com/plenari]
+Copyright (c) 2026-present [https://github.com/plenari/Book-of-Experience]
 
 本仓库的文字、图片及创意内容采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）进行许可。
 
